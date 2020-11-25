@@ -27,4 +27,12 @@ var movable = new Movable("myDiv");
 //use init(); to initilize
 movable.init();
 ```
+# More Options
+
+```javascript
+movable.unInit();
+//Use unInit(); method to Uninitilize the Movable
+```
+
+
 
