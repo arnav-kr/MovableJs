@@ -33,6 +33,3 @@ movable.init();
 movable.unInit();
 //Use unInit(); method to Uninitilize the Movable
 ```
-
-
-
