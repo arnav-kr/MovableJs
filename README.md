@@ -33,3 +33,7 @@ movable.init();
 movable.unInit();
 //Use unInit(); method to Uninitilize the Movable
 ```
+|Methods|Uses|
+|-----|------|
+|`init();`|Used to initilize the `Movable`.|
+|`unInit();`|Used to uninitilize the `Movable`.|
