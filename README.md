@@ -9,8 +9,8 @@ See [Live Demo](https://codepen.io/arnav-kr/pen/eYzwQGX).
 You Can Use these Scripts to include `movable.js` or `movable.min.js` in your website.
 
 ```javascript
-<script src="https://rawcdn.githack.com/arnav-kr/MovableJs/main/dist/movable.js"></script>
-<script src="https://rawcdn.githack.com/arnav-kr/MovableJs/main/dist/movable.min.js"></script>
+<script src="https://rawcdn.githack.com/arnav-kr/MovableJs/6f6976fe5e798d8716b9f46aff46e2102313ffa3/dist/movable.js"></script>
+<script src="https://rawcdn.githack.com/arnav-kr/MovableJs/6f6976fe5e798d8716b9f46aff46e2102313ffa3/dist/movable.min.js"></script>
 ```
 
 # How To Use
