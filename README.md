@@ -1,3 +1,6 @@
+## Note:- Movablejs is no longer maintained This repository has been archived
+
+
 # MovableJs
 Awesome Javascript library to make html elements movable on the go!
 
